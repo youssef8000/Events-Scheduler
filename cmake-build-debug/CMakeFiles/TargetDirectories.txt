@@ -1,0 +1,3 @@
+D:/Omar/semester 4/DS Project/soso/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Omar/semester 4/DS Project/soso/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+D:/Omar/semester 4/DS Project/soso/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
